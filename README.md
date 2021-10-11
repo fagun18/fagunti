@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python , PHP, Javascript
 - 💞️ I’m looking to collaborate on ...
-- Websie: https://fagunti.xyz/
+- Websie: https://fagun.net/
 - 📫 How to reach me: Contact with me with:  1.Facebook: https://www.facebook.com/fagunnnn
 
 <!---

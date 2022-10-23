@@ -33,6 +33,10 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
+   <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="python"/> 
+  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
@@ -278,6 +282,6 @@
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
+Credit: [Mejbaur Bahar Fagun](https://www.facebook.com/mbfagun)
 
-Last Edited on: 09/09/2021
+Last Edited on: 23/10/2022

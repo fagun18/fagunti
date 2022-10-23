@@ -235,7 +235,7 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://facebook.com/mbfagun" target="_blank">
-      <img src="https://img.shields.io/badge/<Facebook>-<Facebook>-<brightgreen>" alt="example"/>
+      <img src="https://img.shields.io/badge/Facebook-<brightgreen>" alt="example"/>
     </a>
     <a href="https://dribbble.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>

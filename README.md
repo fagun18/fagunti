@@ -226,16 +226,16 @@
     <a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-    <a href="https://codepen.io/@example" target="_blank">
+    <a href="https://codepen.io/Fgaun" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a>
   </div>
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://linkedin.com/in/mejbaur" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    <a href="https://facebook.com/mbfagun" target="_blank">
+      <img src="https://img.shields.io/badge/<Facebook>-<Facebook>-<brightgreen>" alt="example"/>
     </a>
     <a href="https://dribbble.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
@@ -260,7 +260,7 @@
   <a  href="https://t.me/mbfagun" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:fagun018@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>

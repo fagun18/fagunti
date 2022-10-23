@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** It Was Secret ** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on **It Was Also A Secret **
 
 - 🤝 I’m looking for help with **Software Testing **
 
@@ -23,8 +23,6 @@
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>

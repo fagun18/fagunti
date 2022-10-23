@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Software Testing **
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](github.com/fagunti)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 

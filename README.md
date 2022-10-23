@@ -27,11 +27,6 @@
 <p align="center">
   <img style="width:26rem; height:auto" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif"/>
 </p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
